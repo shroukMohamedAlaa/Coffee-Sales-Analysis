@@ -18,3 +18,4 @@ Sets of 6: 29%
 📊 Visual Insights:
 Leveraged Pivot Tables and Charts to create dynamic visuals. The timeline feature allows for an in-depth drill-through of total sales.
 Exciting possibilities with slicers to explore size and roast preferences! 📈
+![image](https://github.com/shroukMohamedAlaa/Coffee-Sales-Analysis/assets/101405248/c9c2001e-1e0f-4892-88cc-ac2582cdc53e)
